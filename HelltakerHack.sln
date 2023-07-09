@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelltakerHack", "HelltakerHack\HelltakerHack.csproj", "{F199A028-0A4D-492E-8102-4D642F10FD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F199A028-0A4D-492E-8102-4D642F10FD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F199A028-0A4D-492E-8102-4D642F10FD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F199A028-0A4D-492E-8102-4D642F10FD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F199A028-0A4D-492E-8102-4D642F10FD11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D680D51C-0CEC-4710-8EFD-9E7DD05E66F0}
+	EndGlobalSection
+EndGlobal
